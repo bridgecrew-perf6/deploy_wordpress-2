@@ -1,4 +1,4 @@
 - src: https://github.com/infradev4/roleWordpress.git
-- src: infradev4.docker_role
-- src: infradev4.docker_role
+#- src: infradev4.docker_role
+#- src: infradev4.docker_role
 - src: https://github.com/infradev4/roleDocker.git
